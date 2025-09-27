@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Gerald and I love Frontend things!
+### Hi there 👋 I'm Gerald and I love all things Frontend & Game Dev.
 
-- 🔭 I’m currently working on cool Bitcoin Javascript web apps
-- 🌱 I’m currently learning about Bitcoin bots, Blitz.js, wait that's a lot of Bs...
-- 👯 I’m looking to collaborate on anything Javascript
-- ⚡ Fun fact: I like gaming and helping people where I can!
+- 🔭 I’m currently learning some Game dev in Godot
+- 🌱 I’very been programming for over 13 years in things like C#, PHP, Angular, React, Vue & GdScript.
+- 👯 I’m looking to collaborate on anything game dev!
+- ⚡ Fun fact: I love playing around with AI & the Godot engine.
 
